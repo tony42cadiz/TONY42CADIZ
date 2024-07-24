@@ -48,8 +48,6 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
 
 ---
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TONY42CADIZ&show_icons=true&hide_border=true)
-
 <img align="right" height="200" src="https://2.bp.blogspot.com/-hqdAmGpdR8g/WyerX2QxwUI/AAAAAAAAQfU/YoiODQqtE7A3c_ub2F9Eqi1xJiyvRt41gCLcBGAs/s1600/Tecleando.gif"  />
 
 ###
