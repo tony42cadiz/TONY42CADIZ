@@ -1,4 +1,4 @@
-Hi! I am **ANTONIO MANUEL**!💻👨‍💻
+Hi! I am **ANTONIO MANUEL**!💻👨‍💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p align="center">
   <img src="" rd.width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -7,7 +7,7 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
  
  🔭 **I'm always planning a new project**.
  
- 🌱 I’m currently learning <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> **HTML** <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> **CSS** <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> **JAVASCRIPT** <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> **PYTHON**
+ 🌱 I’m currently learning <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
  
  :books: I want to learn <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">, <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> and <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
  
@@ -47,11 +47,51 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
-
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TONY42CADIZ&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/TONY42CADIZ)
+<img align="right" height="200" src="https://2.bp.blogspot.com/-hqdAmGpdR8g/WyerX2QxwUI/AAAAAAAAQfU/YoiODQqtE7A3c_ub2F9Eqi1xJiyvRt41gCLcBGAs/s1600/Tecleando.gif"  />
 
+###
+
+<img src="https://raw.githubusercontent.com/TONY42CADIZ/TONY42CADIZ/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TONY42CADIZ/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TONY42CADIZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TONY42CADIZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
 ---
 
 
@@ -68,11 +108,11 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/T
 ---
 ### You can checkout my future blogs :loudspeaker: 
 
-**link**
+[**link**]
 
-**link**
+[**link**]
 
-**link**
+[**link**]
 
 ---
 
@@ -88,3 +128,13 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
 [medium]: https://medium.com/@Souravdey777/
+---
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
+HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
+Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+
+
+⭐ From [@TONY42CADIZ](https://github.com/TONY42CADIZ)
