@@ -2,7 +2,10 @@ Hi! I am **ANTONIO MANUEL**!💻👨‍💻 <img src="https://github.com/TheDude
 <p align="center">
   <img src="" rd.width="100%" title="Intro Card" alt="Intro Card">
 </p>
+<img align="right" height="220" src="https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-29/aa145910-49c4-11eb-8e93-835c7725694d.jpg"  />
 
+###
+###
 I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
  
  🔭 **I'm always planning a new project**.
@@ -14,13 +17,15 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
  🤔 I’m looking for help with <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
-
+ 
  <img src="https://img.shields.io/github/followers/TONY42CADIZ?label=Follow" style=" float:left, margin-right:10px" />
 
+###
 
 ---
+<img align="right" height="180" src="https://th.bing.com/th/id/OIP.9HDtbx1q0CBmsWHbc3HmcgHaDk?w=344&h=168&c=7&r=0&o=5&pid=1.7"  />
 
+###
 
 ### Tech & Tools Preference
 
@@ -46,6 +51,7 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
+###
 ---
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 <img align="right" height="200" src="https://2.bp.blogspot.com/-hqdAmGpdR8g/WyerX2QxwUI/AAAAAAAAQfU/YoiODQqtE7A3c_ub2F9Eqi1xJiyvRt41gCLcBGAs/s1600/Tecleando.gif"  />
@@ -92,12 +98,20 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 <br/>
 
 
