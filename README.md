@@ -57,10 +57,7 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
 <img align="right" height="200" src="https://2.bp.blogspot.com/-hqdAmGpdR8g/WyerX2QxwUI/AAAAAAAAQfU/YoiODQqtE7A3c_ub2F9Eqi1xJiyvRt41gCLcBGAs/s1600/Tecleando.gif"  />
 
 ###
-
 <img src="https://raw.githubusercontent.com/TONY42CADIZ/TONY42CADIZ/output/snake.svg" alt="Snake animation"/>
-
-###
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/TONY42CADIZ/count.svg?"  />
