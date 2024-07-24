@@ -52,7 +52,7 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
 
 ###
 
-<img src="https://raw.githubusercontent.com/TONY42CADIZ/TONY42CADIZ/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TONY42CADIZ/TONY42CADIZ/output/snake.svg" alt="Snake animation"/>
 
 ###
 
