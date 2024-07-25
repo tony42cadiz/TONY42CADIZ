@@ -54,6 +54,8 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
 ###
 ---
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TONY42CADIZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <img align="right" height="200" src="https://2.bp.blogspot.com/-hqdAmGpdR8g/WyerX2QxwUI/AAAAAAAAQfU/YoiODQqtE7A3c_ub2F9Eqi1xJiyvRt41gCLcBGAs/s1600/Tecleando.gif"  />
 
 ###
@@ -63,12 +65,7 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
   <img src="https://profile-counter.glitch.me/TONY42CADIZ/count.svg?"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TONY42CADIZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-###
+### Studying 🧑‍🔬
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
