@@ -65,7 +65,7 @@ I am studying **FULL STACK DEVELOPER** in **4GEEKS ACADEMY**. :wink:
   <img src="https://profile-counter.glitch.me/TONY42CADIZ/count.svg?"  />
 </div>
 
-### Studying 🧑‍🔬
+### Studying 🧑‍💼
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
