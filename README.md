@@ -1,6 +1,6 @@
 Hi! I am **ANTONIO MANUEL**!💻👨‍💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p align="center">
-  <img src="file:///C:/Users/molfe/Downloads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg" rd.width="100%" title="Intro Card" alt="Intro Card">
+  <img src="" rd.width="100%" title="Intro Card" alt="Intro Card">
 </p>
 <img align="right" height="220" src="https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-29/aa145910-49c4-11eb-8e93-835c7725694d.jpg"  />
 
